@@ -1,0 +1,162 @@
+main.cu(88): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+main.cu(103): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+main.cu(88): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+main.cu(103): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(202): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(204): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(206): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(208): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(212): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(215): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(217): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(219): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(221): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(224): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(226): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(228): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(230): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(232): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(240): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(241): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(202): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(204): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(206): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(208): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(212): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(215): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(217): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(219): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(221): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(224): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(226): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(228): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(230): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(232): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(240): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+user_program.cu(241): warning #2464-D: conversion from a string literal to "char *" is deprecated
+
+[fs_gsys] : ===sort by modified time===
+[fs_gsys] : / d
+[fs_gsys] : ===sort by file size===
+[fs_gsys] : t.txt 32
+[fs_gsys] : / 12 d
+[fs_gsys] : ===sort by modified time===
+[fs_gsys] : / d
+[fs_gsys] : t.txt
+[fs_gsys] : ===sort by file size===
+[fs_gsys] : t.txt 32
+[fs_gsys] : / 16 d
+[fs_gsys] : app 0 d
+[fs_gsys CD] : find it.
+[fs_gsys] : ===sort by file size===
+[fs_gsys] : t.txt 32
+[fs_gsys] : / 16 d
+[fs_gsys] : app 0 d
+[fs_gsys] : ===sort by file size===
+[fs_gsys] : a.txt 64
+[fs_gsys] : t.txt 32
+[fs_gsys] : b.txt 32
+[fs_gsys] : app 17 d
+[fs_gsys] : / 16 d
+[fs_gsys] : soft 0 d
+[fs_gsys] : ===sort by modified time===
+[fs_gsys] : app d
+[fs_gsys] : b.txt
+[fs_gsys] : a.txt
+[fs_gsys] : / d
+[fs_gsys] : t.txt
+[fs_gsys CD] : find it.
+[fs_gsys] : /appsoft
+[fs_gsys] : ===sort by file size===
+[fs_gsys] : B.txt 1024
+[fs_gsys] : C.txt 1024
+[fs_gsys] : D.txt 1024
+[fs_gsys] : a.txt 64
+[fs_gsys] : A.txt 64
+[fs_gsys] : t.txt 32
+[fs_gsys] : b.txt 32
+[fs_gsys] : soft 24 d
+[fs_gsys] : app 17 d
+[fs_gsys] : / 16 d
+[fs_gsys] : ===sort by file size===
+[fs_gsys] : B.txt 1024
+[fs_gsys] : C.txt 1024
+[fs_gsys] : D.txt 1024
+[fs_gsys] : a.txt 64
+[fs_gsys] : A.txt 64
+[fs_gsys] : t.txt 32
+[fs_gsys] : b.txt 32
+[fs_gsys] : soft 24 d
+[fs_gsys] : app 17 d
+[fs_gsys] : / 16 d
+[fs_gsys] : /app
+[fs_gsys] : ===sort by file size===
+[fs_gsys] : B.txt 1024
+[fs_gsys] : C.txt 1024
+[fs_gsys] : D.txt 1024
+[fs_gsys] : a.txt 64
+[fs_gsys] : A.txt 64
+[fs_gsys] : t.txt 32
+[fs_gsys] : b.txt 32
+[fs_gsys] : soft 24 d
+[fs_gsys] : app 17 d
+[fs_gsys] : / 16 d
+[fs_gsys CD] : find it.
+[SORRY] : no time to implement it. I have drafted my implementation plan in the report
+[fs_gsys] : ===sort by file size===
+[fs_gsys] : B.txt 1024
+[fs_gsys] : C.txt 1024
+[fs_gsys] : D.txt 1024
+[fs_gsys] : a.txt 64
+[fs_gsys] : A.txt 64
+[fs_gsys] : t.txt 32
+[fs_gsys] : b.txt 32
+[fs_gsys] : soft 24 d
+[fs_gsys] : app 17 d
+[fs_gsys] : / 16 d
+[fs_gsys] : ===sort by file size===
+[fs_gsys] : B.txt 1024
+[fs_gsys] : C.txt 1024
+[fs_gsys] : D.txt 1024
+[fs_gsys] : a.txt 64
+[fs_gsys] : A.txt 64
+[fs_gsys] : t.txt 32
+[fs_gsys] : b.txt 32
+[fs_gsys] : soft 24 d
+[fs_gsys] : app 17 d
+[fs_gsys] : / 16 d
